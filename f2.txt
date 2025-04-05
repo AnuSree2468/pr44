@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Ye Nain Matakka tera 
 Hayi muhje bada tadpaye 
+=======
+Ishq wala lone 
+sirf wala soje wala 
+waise wala love
+>>>>>>> 59ff76e (commit 1)
